@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1490835606:AAHj3DF-wpLCF2NhsT3jKad1JbK_ym_zdjw"
+    APP_ID = "1383845"
+    API_HASH = "0e3d2c299cc3c5cc26c283cecd2eb97c"
+    DATABASE_URL = "postgres://nfhtidhorazpmg:aee388bd51288310205053a494769f3304a5cae4cdd4d8ee7dcc20ef811e5f67@ec2-54-166-114-48.compute-1.amazonaws.com:5432/d3seffg6rhh7vh"
+    SUDO_USERS = "1131653685" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/linksharplatform"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
